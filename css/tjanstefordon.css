@@ -1,0 +1,189 @@
+.content{
+    background: none;
+    width: 1300px;
+    height: 2000px;
+
+    position: relative;
+    left: 300px;
+}
+
+.titel{
+    font-size: 40px;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.titel2{
+    font-size: 40px;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    position: relative;
+    top: 200px;
+}
+
+.titel3{
+    font-size: 40px;
+
+    font-family: Arial, Helvetica, sans-serif;
+
+    position: relative;
+    top: 350px;
+}
+
+.devider{
+    background: rgb(190, 190, 190);
+    width: 100%;
+    height: 2px;
+
+    position: relative;
+    top: -1800px;
+    left: -10px;
+}
+
+.devider2{
+    background: rgb(190, 190, 190);
+    width: 100%;
+    height: 2px;
+
+    position: relative;
+    top: -1500px;
+    left: -10px;
+}
+
+.text-content1{
+    position: relative;
+    top: 25px;
+    font-size: 20px;
+}
+
+.text-content2{
+    position: relative;
+    top: 225px;
+    font-size: 20px;
+}
+
+.text-content3{
+    position: relative;
+    top: 375px;
+    font-size: 20px;
+}
+
+
+
+
+.contact-name{
+    width: 350px;
+    height: 40px;
+
+    background: rgb(235, 235, 235);
+    border: 1px solid black;
+
+    position: relative;
+    top: 410px;
+}
+.contact-telnr{
+    width: 350px;
+    height: 40px;
+
+    background: rgb(235, 235, 235);
+    border: 1px solid black;
+
+    position: relative;
+    top: 510px;
+    left: -360px;
+}
+.contact-email{
+    width: 350px;
+    height: 40px;
+
+    background: rgb(235, 235, 235);
+    border: 1px solid black;
+
+    position: relative;
+    top: 610px;
+    left: -720px;
+}
+.contact-company{
+    width: 350px;
+    height: 40px;
+
+    background: rgb(235, 235, 235);
+    border: 1px solid black;
+
+    position: relative;
+    top: 660px;
+}
+.contact-intrest{
+    width: 350px;
+    height: 40px;
+
+    background: rgb(235, 235, 235);
+    border: 1px solid black;
+
+    position: relative;
+    top: 765px;
+    left: -360px;
+}
+
+
+
+.contact-name-header{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+    position: relative;
+    top: 500px;
+}
+.contact-telnr-header{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+    position: relative;
+    top: 575px;
+}
+.contact-email-header{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+    position: relative;
+    top: 650px;
+}
+.contact-company-header{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+    position: relative;
+    top: 725px;
+}
+.contact-intrest-header{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+
+    position: relative;
+    top: 800px;
+}
+
+.contact-submit{
+    background: #2D3693;
+    color: white;
+
+    font-size: 17.5px;
+    
+    height: 45px;
+    width: 85px;
+
+    position: relative;
+    left: -700px;
+    top: 850px;
+}
+
+.footer{
+    background: wheat;
+    width: 100%;
+    height: 750px;
+
+    position: relative;
+    left: -10px;
+    top: 650px;
+}

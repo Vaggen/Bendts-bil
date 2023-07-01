@@ -1,0 +1,71 @@
+.content{
+    background: none;
+    width: 1300px;
+    height: 2000px;
+
+    position: relative;
+    left: 300px;
+}
+
+.titel{
+    font-size: 40px;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.photo1{
+    background: url(/assets/bilmarken/volvo.png);
+    width: 512px;
+    height: 512px;
+
+    position: relative;
+    top: 200px;
+    left: 400px;
+}
+
+.photo2{
+    background: url(/assets/bilmarken/volvo/assar_gabrielsson.png);
+    width: 512px;
+    height: 512px;
+
+    position: relative;
+    top: 275px;
+    left: 400px;
+}
+.photo3{
+    background: url(/assets/bilmarken/volvo/forsta_fordon.png);
+    width: 512px;
+    height: 512px;
+
+    position: relative;
+    top: 300px;
+    left: 400px;
+}
+
+.text-content1{
+    position: relative;
+    top: 150px;
+    font-size: 20px;
+}
+
+.text-content2{
+    position: relative;
+    top: 250px;
+    font-size: 20px;
+}
+
+.text-content3{
+    position: relative;
+    top: 350px;
+    font-size: 20px;
+}
+
+.footer{
+    background: wheat;
+    width: 100%;
+    height: 750px;
+
+    position: relative;
+    left: -10px;
+    top: 650px;
+}

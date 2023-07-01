@@ -1,0 +1,60 @@
+.background-img{
+    background: url(/assets/background.png);
+    width: 100%;
+    height: 600px;
+
+    position: relative;
+    left: -10px;
+    top: -10px;
+}
+
+.site-content-background{
+    background: white;
+    width: 1200px;
+    height: 700px;
+
+    position: relative;
+    left: 350px;
+    top: -100px;
+
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2)
+}
+
+.news-1{
+    background: purple;
+    width: 350px;
+    height: 500px;
+
+    position: relative;
+    left: 350px;
+    top: -75px;
+}
+
+.news-2{
+    background: purple;
+    width: 350px;
+    height: 500px;
+
+    position: relative;
+    left: 775px;
+    top: -575px;
+}
+
+.news-3{
+    background: purple;
+    width: 350px;
+    height: 500px;
+
+    position: relative;
+    left: 1200px;
+    top: -1075px;
+}
+
+.footer{
+    background: wheat;
+    width: 100%;
+    height: 750px;
+
+    position: relative;
+    left: -10px;
+}

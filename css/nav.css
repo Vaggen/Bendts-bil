@@ -1,0 +1,238 @@
+.nav-bar{
+    background: white;
+    width: 100%;
+    height: 100px;
+    
+    position: relative;
+    left: -10px;
+    top: -10px;
+}
+
+.nav-bar-logo{
+    background: url(/assets/logo.png);
+    width: 200px;
+    height: 75px;
+
+    position: relative;
+    left: 25px;
+    top: 15px;
+
+    background-size: 200px;
+    background-repeat: no-repeat;
+    background-position-y: 10px;
+}
+
+.nav-makes{
+    background: none;
+    width: 150px;
+    height: 25px;
+
+    position: relative;
+    left: 870px;
+    top: -35px;
+
+    text-align: center;
+    color: white;
+    font-size: 20px;
+
+    cursor: pointer;
+
+    transition: ease-in 0.2s;
+}
+.nav-makesbtn:hover{
+    color: rgb(162, 162, 162);
+}
+
+.nav-makesbtn{
+    background: none;
+    width: 200px;
+    height: 25px;
+
+    position: relative;
+
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    border: none;
+
+    cursor: pointer;
+
+    transition: ease-in 0.2s;
+}
+
+.nav-about-company{
+    background: none;
+    width: 150px;
+    height: 25px;
+
+    position: relative;
+    left: 1550px;
+    top: -60px;
+
+    text-align: center;
+    color: white;
+    font-size: 20px;
+
+    cursor: pointer;
+
+    transition: ease-in 0.2s;
+}
+.nav-about-companybtn:hover{
+    color: rgb(162, 162, 162);
+}
+
+.nav-about-companybtn{
+    background: none;
+    width: 200px;
+    height: 25px;
+
+    position: relative;
+
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    border: none;
+
+    cursor: pointer;
+
+    transition: ease-in 0.2s;
+}
+
+.nav-company-buy{
+    background: none;
+    width: 150px;
+    height: 25px;
+
+    position: relative;
+    left: 1325px;
+    top: -85px;
+
+    text-align: center;
+    color: white;
+    font-size: 20px;
+
+    cursor: pointer;
+
+    transition: ease-in 0.2s;
+}
+.nav-company-buybtn:hover{
+    color: rgb(162, 162, 162);
+}
+
+.nav-company-buybtn{
+    background: none;
+    width: 200px;
+    height: 25px;
+
+    position: relative;
+
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    border: none;
+
+    cursor: pointer;
+
+    transition: ease-in 0.2s;
+}
+
+.nav-transport-cars{
+    background: none;
+    width: 150px;
+    height: 25px;
+
+    position: relative;
+    left: 1100px;
+    top: -110px;
+
+    text-align: center;
+    color: white;
+    font-size: 20px;
+
+    cursor: pointer;
+
+    transition: ease-in 0.2s;
+}
+.nav-transport-carsbtn:hover{
+    color: rgb(162, 162, 162);
+}
+
+.nav-transport-carsbtn{
+    background: none;
+    width: 200px;
+    height: 25px;
+
+    position: relative;
+
+    text-align: center;
+    color: black;
+    font-size: 20px;
+    border: none;
+
+    cursor: pointer;
+
+    transition: ease-in 0.2s;
+}
+
+.nav-contact{
+    background: #2D3693;
+    width: 75px;
+    height: 50px;
+
+    position: relative;
+    left: 1800px;
+    top: -150px;
+
+    cursor: pointer;
+}
+
+.nav-contact-text{
+    background: none;
+
+    position: relative;
+    left: 7.5px;
+    top: 12.5px;
+
+    font-size: 17.5px;
+    color: white;
+}
+
+.nav-makes-dropdown{
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+
+    font-size: 20px;
+}
+
+.nav-makes-dropdown a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.nav-makes:hover .nav-makes-dropdown {display: block;}
+
+.nav-company-buy-dropdown{
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+
+    font-size: 20px;
+}
+
+.nav-company-buy-dropdown a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.nav-company-buy:hover .nav-company-buy-dropdown {display: block;}

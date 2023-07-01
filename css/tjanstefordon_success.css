@@ -1,0 +1,30 @@
+.content{
+    background: none;
+    width: 1300px;
+    height: 2000px;
+
+    position: relative;
+    left: 300px;
+}
+
+.titel{
+    font-size: 40px;
+
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.text-content1{
+    position: relative;
+    top: 25px;
+    font-size: 20px;
+}
+
+.footer{
+    background: wheat;
+    width: 100%;
+    height: 750px;
+
+    position: relative;
+    left: -10px;
+    top: -1550px;
+}
